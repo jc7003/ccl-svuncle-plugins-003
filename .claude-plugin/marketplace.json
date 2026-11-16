@@ -2,5 +2,12 @@
     "name": "svuncle-plugin-003",
     "description": "share claude code plugins for the svuncle team",
     "owner": { "name" : "svuncle"},
-    "plugins": []
+    "plugins": [
+         {
+            "name": "deploy-plugin",
+            "source": "./plugins",
+            "description": "Deployment commands for this project",
+            "version": "1.0.0"
+        }
+    ]
 }
