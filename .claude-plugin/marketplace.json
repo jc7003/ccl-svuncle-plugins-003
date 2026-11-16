@@ -1,0 +1,6 @@
+{
+    "name": "svuncle-plugin-003",
+    "description": "share claude code plugins for the svuncle team",
+    "owner": { "name" : "svuncle"},
+    "plugins": []
+}
