@@ -1,0 +1,6 @@
+{
+    "name": "deploy-plugin",
+    "description": "Deploymnet commands for this project (GitHub pages today...)",
+    "version": "1.0.0",
+    "author": { "name": "svuncle" }
+}
